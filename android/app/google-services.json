@@ -1,0 +1,62 @@
+{
+  "project_info": {
+    "project_number": "421943026990",
+    "project_id": "supapk",
+    "storage_bucket": "supapk.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:421943026990:android:b7584055bedb15fe0ec6bf",
+        "android_client_info": {
+          "package_name": "com.supapk"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "421943026990-cpqk38ldl7brs9i7tsldq39prql0jdf5.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.supapk",
+            "certificate_hash": "9468940410e1df0495207d30f575e46ca95662ae"
+          }
+        },
+        {
+          "client_id": "421943026990-mnbeemqbqd4tffe5p5s7apabuvv0b832.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.supapk",
+            "certificate_hash": "5e8f16062ea3cd2c4a0d547876baa6f38cabf625"
+          }
+        },
+        {
+          "client_id": "421943026990-ea5qe5ttqom090pnjm2qq9r7nis8re5s.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDKQuR8lZWn-4BI9PoDATJTDPnLV0ZJ7Pg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "421943026990-ea5qe5ttqom090pnjm2qq9r7nis8re5s.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "421943026990-5ea0o8tptcjfvcihevcskb41ctefqudr.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.supapk"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
